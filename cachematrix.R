@@ -55,7 +55,7 @@ test$getinv()
 #[3,]  0.30834670 -0.06663099 -0.23591437
 
 #inverse of original matrix from cache 
-cacheSolve(m)
+cacheSolve(test)
 #            [,1]        [,2]        [,3]
 #[1,] -0.17362511  0.01456131  0.29805812
 #[2,] -0.09599152  0.16394988 -0.09648416
